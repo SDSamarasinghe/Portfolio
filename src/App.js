@@ -1,6 +1,4 @@
-import { useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
-import ReactGA from "react-ga4";
 
 import Homepage from "./pages/homepage";
 import About from "./pages/about";
@@ -13,7 +11,6 @@ import Notfound from "./pages/404";
 import "./app.css";
 
 function App() {
-	const TRACKING_ID = process.env.REACT_APP_GA_TRACKING_ID;
 	// useEffect(() => {
 	// 	if (TRACKING_ID !== "") {
 	// 		ReactGA.initialize(TRACKING_ID);
