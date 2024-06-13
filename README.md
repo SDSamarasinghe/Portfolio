@@ -1,4 +1,4 @@
-# Reactfolio V1.2 👩🏽‍🚀
+# Welcome 👩🏽‍🚀
 
 Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
 
@@ -8,7 +8,7 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 
 Live demo here: <a href="https://wondrous-klepon-1d85aa.netlify.app" target="_blank">reactfolio.Sadisha.dev</a>
 <br/>
-Readme here: <a href="https://Sadisha.dev/portfolio/reactfolio/" target="_blank">Sadisha.dev/portfolio/reactfolio/</a>
+Readme here: <a href="https://Sadisha.dev/portfolio/reactfolio/" target="_blank">Sadisha.dev/portfolio/</a>
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
