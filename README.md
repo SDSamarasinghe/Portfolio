@@ -6,9 +6,9 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 <img src="https://i.imgur.com/ZWPO61A.jpeg" alt="Reactfolio" />
 </center>
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://reactfolio.Sadisha.dev/" target="_blank">reactfolio.Sadisha.dev</a>
 <br/>
-Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a>
+Readme here: <a href="https://Sadisha.dev/portfolio/reactfolio/" target="_blank">Sadisha.dev/portfolio/reactfolio/</a>
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
@@ -136,7 +136,7 @@ Directory: `/src/data/`
     		page: "home",
     		description:
     			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-    		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+    		keywords: ["Sadisha", "Sadisha", "Sadisha Samarasinghe"],
     	},
     ];
     ```

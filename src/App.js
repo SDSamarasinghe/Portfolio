@@ -10,10 +10,10 @@ import ReadArticle from "./pages/readArticle";
 import Contact from "./pages/contact";
 import Notfound from "./pages/404";
 
-import { TRACKING_ID } from "./data/tracking";
 import "./app.css";
 
 function App() {
+	const TRACKING_ID = process.env.REACT_APP_GA_TRACKING_ID;
 	useEffect(() => {
 		if (TRACKING_ID !== "") {
 			ReactGA.initialize(TRACKING_ID);

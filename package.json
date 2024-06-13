@@ -1,11 +1,11 @@
 {
-	"name": "reactfolio",
+	"name": "Portfolio of Sadisha Samarasinghe",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Sadisha Samarasinghe",
+		"email": "lksadish@gmail.com",
+		"url": "lksadish@gmail.com"
 	},
 	"license": "MIT",
 	"private": true,
