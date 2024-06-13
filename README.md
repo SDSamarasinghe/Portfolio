@@ -6,7 +6,7 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 <img src="https://file.io/islj6O0wWSqP" alt="Reactfolio" />
 </center>
 
-Live demo here: <a href="https://reactfolio.Sadisha.dev/" target="_blank">reactfolio.Sadisha.dev</a>
+Live demo here: <a href="https://wondrous-klepon-1d85aa.netlify.app" target="_blank">reactfolio.Sadisha.dev</a>
 <br/>
 Readme here: <a href="https://Sadisha.dev/portfolio/reactfolio/" target="_blank">Sadisha.dev/portfolio/reactfolio/</a>
 
