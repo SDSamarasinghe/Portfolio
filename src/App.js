@@ -14,11 +14,11 @@ import "./app.css";
 
 function App() {
 	const TRACKING_ID = process.env.REACT_APP_GA_TRACKING_ID;
-	useEffect(() => {
-		if (TRACKING_ID !== "") {
-			ReactGA.initialize(TRACKING_ID);
-		}
-	}, []);
+	// useEffect(() => {
+	// 	if (TRACKING_ID !== "") {
+	// 		ReactGA.initialize(TRACKING_ID);
+	// 	}
+	// }, []);
 
 	return (
 		<div className="App">

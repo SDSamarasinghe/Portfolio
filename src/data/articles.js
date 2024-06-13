@@ -2,7 +2,7 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
+		date: "Jan 4 2022",
 		title: "Azure Form Recognizer",
 		description:
 			"Form Recognizer is cloud-based Azure Applied AI service that uses machine-learning models to extract and analyze form fields, text, and tables from your documents. This application analyze your forms and documents, extracts text and data.",
@@ -41,7 +41,7 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
+		date: "Sep 7 2022",
 		title: "Monitoring & Observability",
 		description:
 			"Monitoring is the systematic process of collecting, analyzing and using information to track a programmer's progress toward reaching its objectives and to guide management decisions.",
@@ -62,7 +62,7 @@ function article_2() {
 
 function article_3() {
 	return {
-		date: "7 May 2023",
+		date: "Dec 10 2023",
 		title: "Beginner’s Guide to Node.js and Kafka Integration",
 		description:
 			"Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications",

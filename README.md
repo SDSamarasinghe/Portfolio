@@ -81,7 +81,7 @@ Directory: `/src/data/`
             ```js
             function article_3() {
             	return {
-            		date: "7 May 2023",
+            		date: "12 June 2024",
             		title: "The Benefits of Cloud Computing",
             		description: "Why businesses are turning to the cloud.",
             		style: `
